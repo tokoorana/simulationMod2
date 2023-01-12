@@ -1,5 +1,5 @@
 # Імітаційне моделювання компʼютерних систем
-## Лабораторна робота №1. Опис імітаційних моделей
+## Лабораторна робота №2. Редагування імітаційних моделей у середовищі NetLogo
 ## СПм-21-2, Мірошниченко Регіна Олександрівна
 ### Обрана модель для імітації в середовищі NetLogo:
 [Gas Chromatography](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Chemistry%20&%20Physics/Gas%20Chromatography.nlogo)
